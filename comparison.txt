@@ -1,0 +1,4 @@
+| Tool  | User Time | System Time | CPU Usage | Total Time |
+|-------|----------|------------|-----------|------------|
+| Babel | 0.54s    | 0.11s       | 78%       | 0.837s     | does transpilation from ES6+ to ES5
+| Terser| 0.24s    | 0.05s       | 82%       | 0.348s     | only for minification
